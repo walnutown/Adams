@@ -1,2 +1,2 @@
 # Adams
-A project for sharing experiences of playing VR apps
+VRCinema in Unity, based on Cardboard SDK + EasyMovieTexture 
