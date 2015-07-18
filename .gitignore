@@ -21,4 +21,8 @@
 sysinfo.txt
 
 # generated apks
+<<<<<<< HEAD
 *.apk
+=======
+*.apk
+>>>>>>> f886743657be99b67f2dcebfb97ec50dddcbf472
